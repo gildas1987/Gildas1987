@@ -1,7 +1,7 @@
 <div align="center" style="background-color:#000000; padding:30px;">
 
 <h1 style="color:#800000;">
-Gildas Kadoukpè Magbondé, Ph.D.
+Kadoukpè Gildas  Magbondé, Ph.D.
 </h1>
 
 <h3 style="color:#800000;">
