@@ -1,5 +1,11 @@
-###  Gildas Kadoukpè Magbondé, PhD
+<div align="center" style="background-color:#000000; padding:30px;">
 
-**Development Economist | Applied Economics | Energy economics |Causal Inference | Environmental & Resource Economics**
+<h1 style="color:#800000;">
+Gildas Kadoukpè Magbondé, Ph.D.
+</h1>
 
-#I examine how access to reliable sources of energy improves the welfare of housheolds in developing countries, using rigorous causal econometrics**
+<h3 style="color:#800000;">
+Development Economist | Applied Economics | Energy Economics | Causal Inference | Environmental & Resource Economics
+</h3>
+
+</div>
