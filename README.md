@@ -9,3 +9,12 @@ Development Economist | Applied Economics | Energy Economics | Causal Inference 
 </h3>
 
 </div>
+
+
+<div align="center" style="background-color:#000000; padding:45px;">
+
+<h1 style="color:#FFFFFF;">
+I examine the welfare implications of access to reliable and affordable energy in Sub-Saharan Africa.
+</h1>
+
+</div>
